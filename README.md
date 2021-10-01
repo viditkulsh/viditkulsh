@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @viditkulsh
-- 👀 I’m interested in ... Python
-- 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ... File Handling
+I'm in class 12th
+Currently I'm trying to learn python
 - 📫 How to reach me ... @vidit_kulshrestha is my instagram userID
 
 <!---
