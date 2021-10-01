@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @viditkulsh
-I'm in class 12th
-Currently I'm trying to learn python
+- I'm in class 12th
+- Currently I'm trying to learn python
 - 📫 How to reach me ... @vidit_kulshrestha is my instagram userID
 
 <!---
