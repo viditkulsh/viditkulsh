@@ -80,6 +80,7 @@ A text-based adventure game developed as a group project. This game engages read
 - 📫 How to reach me <a href="https://mail.google.com/mail/?view=cm&fs=1&to=viditkul08@gmail.com" target="_blank">**viditkul08@gmail.com**</a>
 
 <p align="left">
+  &emsp;&emsp;
   <a href="https://twitter.com/vidit_kulsh" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vidit_kulsh" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/vidit-kulshrestha/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vidit-kulshrestha/" height="30" width="40" /></a>
   <a href="https://instagram.com/vidit_kulshrestha" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vidit_kulshrestha" height="30" width="40" /></a>
