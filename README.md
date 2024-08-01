@@ -1,12 +1,14 @@
-# 👋 Hi there, I'm Vidit Kulshrestha!
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hey There!; I'm Vidit Kulshrestha!; I'm a web3 enthusiast!; &font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Hi, I'm Vidit Kulshrestha!">
+</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=viditkulsh&style=flat-square)
 
 ## 🚀 About Me
 
 - 🎓 Computer Science enthusiast with a passion for coding and problem-solving.
-- 🌱 Currently learning and exploring the depths of Machine Learning and AI.
-- 💬 Ask me about anything tech, especially full-stack development.
+- 🌱 Currently learning and exploring the depths of Web3 but I'm thinking of entering into Machine Learning and AI.
+- 💬 Give me any tech task, and I'll get it done by searching it online.
 
 
 ## 🔧 Technologies & Tools
