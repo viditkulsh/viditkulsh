@@ -8,6 +8,7 @@
 - 🌱 Currently learning and exploring the depths of Machine Learning and AI.
 - 💬 Ask me about anything tech, especially full-stack development.
 
+
 ## 🔧 Technologies & Tools
 
 <div align="center">
@@ -31,10 +32,26 @@
 	</table>
 </div>
 
+## SKILLS:
+
+| Category                     | Skills                                         |
+|------------------------------|------------------------------------------------|
+| **Programming Languages**    | Python, Java, Solidity, JavaScript 		|
+| **Frontend Development**     | React, HTML, CSS, Tailwind CSS 		|
+| **Backend Development**      | Node.js					|
+| **AI/ML Technologies**       | NumPy, pandas, OpenCV, scikit-learn		|
+| **Blockchain Technologies**  | Hardhat, Ethereum, Metamask 			|
+| **Databases**                | MySQL						|
+| **Backend as a Service**     | Vercel 					|
+| **Software**                 | Figma, Canva, Excel, Word, Powerpoint 		| 
+<!--| **Data Visualization**   | Looker, Chart.js, D3.js                    	|-->
+
+
 
 ## 📊 GitHub Stats
 
 ![My ReadMe Embed](https://myreadme.vercel.app/api/embed/viditkulsh?panels=userstatistics,toprepositories,toplanguages,commitgraph&theme=dark)
+
 
 ## 🔥 GitHub Streak
 
@@ -51,10 +68,20 @@ An introductory decentralized application (dApp) that allows users to interact w
 ### [Aventura-De-Texto](https://github.com/viditkulsh/Aventura-De-Texto)
 A text-based adventure game developed as a group project. This game engages readers with an interactive storyline where the plot evolves based on the choices made by the player. It’s entirely coded in Python and showcases the power of text-based interfaces in creating engaging user experiences.
 
-## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vidit-kulshrestha/)
-[![Twitter](https://img.shields.io/badge/-Twitter-333?style=flat-square&logo=twitter)](https://twitter.com/vidit_kulsh)
-[![Email](https://img.shields.io/badge/-Email-333?style=flat-square&logo=gmail)](mailto:viditkul08@gmail.com)
+## Trophies
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viditkulsh" alt="viditkulsh" /></a> </p>
 
-Feel free to reach out for collaborations or just a chat about tech! 😄
+## CONNECT WITH ME:
+<p align="left">
+  <a href="https://twitter.com/vidit_kulsh" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vidit_kulsh" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/vidit-kulshrestha/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vidit-kulshrestha/" height="30" width="40" /></a>
+  <a href="https://instagram.com/vidit_kulshrestha" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vidit_kulshrestha" height="30" width="40" /></a>
+  <a href="https://medium.com/@viditkul08" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@viditkul08" height="30" width="40" /></a>
+  <a href="https://www.codechef.com/users/viditkul08" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="viditkul08" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/viditkul08" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="viditkul08" height="30" width="40" /></a>
+</p>
+
+Feel free to reach out for collaborations or just a tech chat! 😄
+
+
