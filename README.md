@@ -77,7 +77,7 @@ A text-based adventure game developed as a group project. This game engages read
 
 ## CONNECT WITH ME:
 - 👨‍💻 All of my projects are available at [https://github.com/viditkulsh](https://github.com/viditkulsh)
-- 📫 How to reach me [**viditkul08@gmail.com**](mailto:viditkul08@gmail.com)
+- 📫 How to reach me <a href="https://mail.google.com/mail/?view=cm&fs=1&to=viditkul08@gmail.com" target="_blank">**viditkul08@gmail.com**</a>
 
 <p align="left">
   <a href="https://twitter.com/vidit_kulsh" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vidit_kulsh" height="30" width="40" /></a>
