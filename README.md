@@ -1,5 +1,6 @@
+![My ReadMe Embed](https://myreadme.vercel.app/api/embed/ViditKulshrestha?panels=userwelcome)
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hey There!; I'm Vidit Kulshrestha!; I'm a web3 enthusiast!; &font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Hi, I'm Vidit Kulshrestha!">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hey There!; Welcome to my profile.;Let's connect and build together!; &font=Fira%20Code&center=true&width=400&height=50&duration=4000&pause=500" alt="Hi, I'm Vidit Kulshrestha!">
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=viditkulsh&style=flat-square)
@@ -8,7 +9,7 @@
 
 - 🎓 Computer Science enthusiast with a passion for coding and problem-solving.
 - 🌱 Currently learning and exploring the depths of Web3 but I'm thinking of entering into Machine Learning and AI.
-- 💬 Give me any tech task, and I'll get it done by searching it online.
+- 💬 Give me any tech task, and I'll get it done by searching it online XD.
 
 
 ## 🔧 Technologies & Tools
@@ -75,6 +76,9 @@ A text-based adventure game developed as a group project. This game engages read
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viditkulsh" alt="viditkulsh" /></a> </p>
 
 ## CONNECT WITH ME:
+- 👨‍💻 All of my projects are available at [https://github.com/viditkulsh](https://github.com/viditkulsh)
+- 📫 How to reach me [**viditkul08@gmail.com**](mailto:viditkul08@gmail.com)
+
 <p align="left">
   <a href="https://twitter.com/vidit_kulsh" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vidit_kulsh" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/vidit-kulshrestha/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vidit-kulshrestha/" height="30" width="40" /></a>
