@@ -20,8 +20,7 @@
 
 ## 📊 GitHub Stats
 
-![Vidit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=viditkulsh&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viditkulsh&layout=compact&theme=radical)
+![My ReadMe Embed](https://myreadme.vercel.app/api/embed/viditkulsh?panels=userstatistics,toprepositories,toplanguages,commitgraph&theme=dark)
 
 ## 🔥 GitHub Streak
 
