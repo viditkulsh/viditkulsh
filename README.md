@@ -54,12 +54,11 @@
 
 ## 📊 GitHub Stats
 
-![My ReadMe Embed](https://myreadme.vercel.app/api/embed/viditkulsh?panels=userstatistics,toprepositories,toplanguages,commitgraph&theme=dark)
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=viditkulsh&theme=dark&show_icons=true" alt="Vidit's GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=viditkulsh&theme=radical&theme=cobalt" alt="GitHub Streak" />
+</div>
 
-
-## 🔥 GitHub Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=viditkulsh&theme=radical)](https://git.io/streak-stats)
 
 ## ✨ Featured Projects
 
