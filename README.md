@@ -1,7 +1,7 @@
 # Vidit Kulshrestha
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hey There!; Welcome to my profile.;Let's connect and build together!; &font=Fira%20Code&center=true&width=400&height=50&duration=4000&pause=500" alt="Hi, I'm Vidit Kulshrestha!">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hey There!;Hi, I'm Vidit Kulshrestha!;Welcome to my profile.;Let's connect and build together!; &font=Fira%20Code&center=true&width=400&height=50&duration=4000&pause=500" alt="Hi, I'm Vidit Kulshrestha!">
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=viditkulsh&style=flat-square)
