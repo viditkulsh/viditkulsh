@@ -153,8 +153,6 @@ A text-based adventure game developed as a group project. This game engages read
 
 <div align="center">
   
-  ![Visitor Count](https://profile-counter.glitch.me/viditkulsh/count.svg)
-  
   **💡 Open to collaborations • 🚀 Always learning • 🎯 Building the future**
   
   *Thanks for visiting my profile! Feel free to reach out for collaborations or just a tech chat!* 😄
