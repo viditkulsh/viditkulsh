@@ -1,7 +1,7 @@
 <!--
   ╔══════════════════════════════════════════════════════════════════╗
   ║  VIDIT KULSHRESTHA · Web3 Full-Stack Engineer                      ║
-  ║  Animated profile README — mirrors cv.pdf in this repo            ║
+  ║  GitHub profile README                                            ║
   ╚══════════════════════════════════════════════════════════════════╝
 -->
 
@@ -16,7 +16,7 @@
 <!-- ░░░░░░░░░░░░░░░░  TYPING SUBTITLE  ░░░░░░░░░░░░░░░░ -->
 <p align="center">
   <a href="https://dev-vidit.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=820&lines=Shipping+ERC-3643+(T-REX)+security+tokens;Security-first+smart-contract+%2B+backend+engineering;Foundry%3A+unit+%C2%B7+fuzz+%C2%B7+invariant+%C2%B7+attack-vector;Building+regulated+RWA+tokenization%2C+end-to-end" alt="typing"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=820&lines=Smart-contract+%2B+full-stack+Web3+engineer;Security-first+Solidity+%C2%B7+testing+%C2%B7+audits;Foundry%3A+unit+%C2%B7+fuzz+%C2%B7+invariant+%C2%B7+attack-vector;Backends+on+Next.js+%C2%B7+TypeScript+%C2%B7+Postgres" alt="typing"/>
   </a>
 </p>
 
@@ -43,8 +43,8 @@
 const vidit = {
   role: "Web3 Full-Stack Engineer",
   focus: ["Smart Contracts (Solidity)", "Backend / Platform"],
-  currently: "Assistant Manager IT — Web3 @ AGP",
-  building: "Regulated Real-World-Asset (RWA) tokenization, end-to-end",
+  currently: "Security-focused smart-contract + backend engineering",
+  building: "Secure on-chain systems + production backends",
   stack: ["Solidity", "Foundry", "Next.js", "TypeScript", "Supabase", "viem"],
   obsession: "security-first delivery · RBAC · audit-driven everything",
   research: ["cross-chain interoperability", "validator security"],
@@ -52,9 +52,9 @@ const vidit = {
 };
 ```
 
-> Web3 full-stack engineer shipping **ERC-3643 (T-REX)** smart contracts, cross-chain PoCs, and
-> production backend platforms for **regulated RWA tokenization**. Security-first across the stack —
-> from Foundry fuzz/invariant suites to Row-Level-Security'd Postgres.
+> Web3 full-stack engineer focused on **secure smart contracts**, robust **backends**, and thorough
+> **on-chain testing**. Security-first across the stack — from Foundry fuzz/invariant suites to
+> Row-Level-Security'd Postgres.
 
 <!-- ░░░░░░░░░░░░░░░░  AUTO-REFRESHING DEV QUOTE  ░░░░░░░░░░░░░░░░ -->
 <p align="center">
@@ -98,7 +98,7 @@ const vidit = {
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white)
 ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white)
 ![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=flat-square&logo=metamask&logoColor=white)
-`ERC-3643 (T-REX)` `ERC-20` `DeFi` `WalletConnect`
+`ERC-20` `DeFi` `WalletConnect`
 
 **🧩 Backend & Frontend**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -118,67 +118,21 @@ const vidit = {
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
-`Slither` `Mythril` `Echidna` `RBAC` `RLS` `KYC/AML`
-
----
-
-## 🏛️ ERC-3643 RWA tokenization — reference architecture
-
-> _A generic reference architecture for the kind of regulated RWA systems I build — not any one employer's implementation._
-
-```mermaid
-flowchart TD
-    subgraph CLIENT["🖥️ Frontend"]
-        UI["Next.js · React · Tailwind · shadcn/ui"]
-    end
-
-    subgraph API["⚙️ Backend Platform"]
-        RH["REST API layer<br/>(Next.js · TypeScript · Zod)"]
-        DB[("PostgreSQL · Supabase<br/>multi-tenant · RBAC<br/>Row-Level Security")]
-    end
-
-    subgraph VENDOR["🔌 Integrations"]
-        KYC["Identity / KYC / AML"]
-        CUST["Wallet custody"]
-        MON["Error monitoring"]
-    end
-
-    subgraph CHAIN["⛓️ On-chain — ERC-3643 (T-REX)"]
-        SC["Security-token contracts<br/>permissioned issuance<br/>modular compliance · on-chain identity"]
-        TEST["🧪 Foundry test suite<br/>Unit · Fuzz · Invariant · Attack-Vector<br/>Slither · Mythril · Echidna in CI"]
-    end
-
-    UI --> RH
-    RH --> DB
-    RH --> KYC & CUST & MON
-    RH -->|Ethers.js · viem| SC
-    SC -.guards.-> TEST
-
-    classDef chain fill:#6366F1,stroke:#fff,color:#fff;
-    classDef api fill:#8B5CF6,stroke:#fff,color:#fff;
-    classDef client fill:#EC4899,stroke:#fff,color:#fff;
-    class SC,TEST chain;
-    class RH,DB api;
-    class UI client;
-```
+`Slither` `Mythril` `Echidna` `RBAC` `RLS`
 
 ---
 
 ## 💼 experience — `git log --author="vidit"`
 
 <details open>
-<summary><b>🟣 Assistant Manager IT, Web3 — AGP</b> · <i>Remote, India · Dec 2025 → Present</i></summary>
+<summary><b>🟣 Web3 Full-Stack Engineer</b> · <i>Remote, India · Dec 2025 → Present</i></summary>
 
 <br/>
 
-- Engineer a regulated **real-world-asset (RWA) tokenization platform** end-to-end — smart contracts, backend services, and the full asset lifecycle (issuance, governance, corporate actions, redemption).
-- Build & maintain a large **REST API surface** on **Next.js · TypeScript · PostgreSQL · Supabase**, powering onboarding, KYC/KYB, compliance, transactions, and governance.
-- Architected a **multi-tenant data layer** with **role-based access control** and **Row-Level Security** across multiple user roles.
-- Implemented **ERC-3643 (T-REX)** security-token contracts for permissioned issuance, modular compliance, and on-chain identity — deployed on an EVM network via **Ethers.js & viem**.
-- Authored an extensive **Foundry test suite** — Unit · Fuzz · Invariant · RBAC · Integration · Attack-Vector · State-Machine — with **Slither, Mythril, Echidna** static analysis in CI.
-- Integrated third-party infrastructure for **identity/AML, wallet custody, and error monitoring**; ran technical due diligence across compliance, custody, and blockchain vendors.
-- Drove an **audit-driven delivery process**, hardening access control, audit logging, and business-rule validation.
+- Design and build **secure smart contracts** and **production backends** end-to-end, with a security-first mindset.
+- Develop **REST APIs** on **Next.js · TypeScript · PostgreSQL · Supabase**, with **role-based access control** and **Row-Level Security**.
+- Author extensive **Foundry test suites** — Unit · Fuzz · Invariant · Integration · Attack-Vector — backed by **Slither, Mythril, Echidna** static analysis in CI.
+- Drive an **audit-driven delivery process**: access control, audit logging, and business-rule validation.
 
 </details>
 
@@ -293,33 +247,14 @@ Capstone: Blockchain interoperability (DRDO × Astraeus)
 
 ## 📈 github stats
 
+<!-- Self-generated metrics card (built by GitHub Actions → committed SVG, immune to runtime API rate limits) -->
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=viditkulsh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=8B5CF6&icon_color=EC4899"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viditkulsh&layout=compact&theme=tokyonight&hide_border=true&title_color=8B5CF6&langs_count=8"/>
+  <img src="./metrics/github-metrics.svg" alt="GitHub metrics overview"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=viditkulsh&theme=tokyonight&hide_border=true&ring=8B5CF6&fire=EC4899&currStreakLabel=8B5CF6"/>
+  <img src="https://streak-stats.demolab.com?user=viditkulsh&theme=tokyonight&hide_border=true&ring=8B5CF6&fire=EC4899&currStreakLabel=8B5CF6" alt="streak stats"/>
 </p>
-
-<!-- ░░░░░░░░░░░░  METRICS CARDS — uncomment AFTER adding the METRICS_TOKEN secret and running .github/workflows/metrics.yml once  ░░░░░░░░░░░░
-<p align="center">
-  <img src="./metrics/github-metrics.svg" alt="metrics overview"/>
-</p>
-<p align="center">
-  <img src="./metrics/github-metrics-iso.svg" alt="isometric calendar + achievements"/>
-</p>
--->
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=viditkulsh&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8"/>
-</p>
-
-### ⏱️ Weekly coding breakdown
-<!-- waka.yml replaces everything between these markers each day -->
-<!--START_SECTION:waka-->
-> _WakaTime stats appear here after the first `⏱️ WakaTime Readme Stats` workflow run. Set up `WAKATIME_API_KEY` + `GH_TOKEN` secrets and install the WakaTime editor plugin to start tracking._
-<!--END_SECTION:waka-->
 
 <!-- ░░░░░░░░░░░░░░░░  ANIMATED ACTIVITY GRAPH  ░░░░░░░░░░░░░░░░ -->
 <p align="center">
