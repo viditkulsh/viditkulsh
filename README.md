@@ -1,185 +1,153 @@
 <!--
   ╔══════════════════════════════════════════════════════════════════╗
-  ║  VIDIT KULSHRESTHA · Web3 Full-Stack Engineer                      ║
+  ║  VIDIT KULSHRESTHA · Full-Stack Blockchain Developer               ║
   ║  GitHub profile README                                            ║
   ╚══════════════════════════════════════════════════════════════════╝
 -->
 
-<!-- ░░░░░░░░░░░░░░░░  ANIMATED HEADER (theme-adaptive)  ░░░░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░░  HERO — animated header (theme-adaptive)  ░░░░░░░░░░ -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:9D174D&height=220&section=header&text=Vidit%20Kulshrestha&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web3%20Full-Stack%20Engineer%20·%20Smart%20Contracts%20·%20Backend%20%2F%20Platform&descAlignY=58&descSize=18"/>
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=220&section=header&text=Vidit%20Kulshrestha&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web3%20Full-Stack%20Engineer%20·%20Smart%20Contracts%20·%20Backend%20%2F%20Platform&descAlignY=58&descSize=18" alt="header"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:6D28D9&height=220&section=header&text=Vidit%20Kulshrestha&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Blockchain%20Developer%20·%20Zero%20to%20One&descAlignY=58&descSize=18"/>
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:7C3AED,100:8B5CF6&height=220&section=header&text=Vidit%20Kulshrestha&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Blockchain%20Developer%20·%20Zero%20to%20One&descAlignY=58&descSize=18" alt="Vidit Kulshrestha — Full-Stack Blockchain Developer"/>
   </picture>
 </p>
 
-<!-- ░░░░░░░░░░░░░░░░  TYPING SUBTITLE  ░░░░░░░░░░░░░░░░ -->
 <p align="center">
   <a href="https://dev-vidit.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=820&lines=Smart-contract+%2B+full-stack+Web3+engineer;Security-first+Solidity+%C2%B7+testing+%C2%B7+audits;Foundry%3A+unit+%C2%B7+fuzz+%C2%B7+invariant+%C2%B7+attack-vector;Backends+on+Next.js+%C2%B7+TypeScript+%C2%B7+Postgres" alt="typing"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=820&lines=I+build+products+from+zero+to+one.;Smart+contracts+%C2%B7+backends+%C2%B7+product+architecture;Tokenization+%C2%B7+FinTech+%C2%B7+distributed+systems;Security-first%2C+audit-driven%2C+shipped+with+care." alt="typing intro"/>
   </a>
 </p>
 
-<!-- ░░░░░░░░░░░░░░░░  CONTACT / SOCIAL BADGES  ░░░░░░░░░░░░░░░░ -->
 <p align="center">
-  <a href="https://dev-vidit.vercel.app"><img src="https://img.shields.io/badge/Portfolio-dev--vidit.vercel.app-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/vidit-kulshrestha"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/viditkulsh"><img src="https://img.shields.io/badge/GitHub-viditkulsh-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:viditkulsh.work@gmail.com"><img src="https://img.shields.io/badge/Email-viditkulsh.work-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://dev-vidit.vercel.app"><img src="https://img.shields.io/badge/Portfolio-dev--vidit.vercel.app-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/vidit-kulshrestha"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:viditkulsh.work@gmail.com"><img src="https://img.shields.io/badge/Email-viditkulsh.work-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍_Delhi_NCR,_India-1f2937?style=flat-square"/>
-  <img src="https://img.shields.io/badge/🌍_Open_to_relocate-Germany_·_UAE_·_Europe-1f2937?style=flat-square"/>
-  <img src="https://img.shields.io/badge/🛰️_Remote-Yes-16A34A?style=flat-square"/>
-  <img src="https://komarev.com/ghpvc/?username=viditkulsh&label=Profile%20views&color=8b5cf6&style=flat-square"/>
+  <img src="https://img.shields.io/badge/📍_Delhi_NCR,_India-1f2937?style=flat-square" alt="Location"/>
+  <img src="https://img.shields.io/badge/🌍_Open_to-Remote_·_India_·_Germany_·_UAE_·_Europe-1f2937?style=flat-square" alt="Open to"/>
+  <img src="https://komarev.com/ghpvc/?username=viditkulsh&label=Profile%20views&color=8b5cf6&style=flat-square" alt="Profile views"/>
 </p>
 
----
+<br/>
 
-## 🧬 whoami
+## 👋 About
 
-```ts
-const vidit = {
-  role: "Web3 Full-Stack Engineer",
-  focus: ["Smart Contracts (Solidity)", "Backend / Platform"],
-  currently: "Security-focused smart-contract + backend engineering",
-  building: "Secure on-chain systems + production backends",
-  stack: ["Solidity", "Foundry", "Next.js", "TypeScript", "Supabase", "viem"],
-  obsession: "security-first delivery · RBAC · audit-driven everything",
-  research: ["cross-chain interoperability", "validator security"],
-  ielts: "7.0 (C1)",
-};
+<img align="right" width="360" src="./assets/dev-working.gif" alt="Developer at work — isometric animation"/>
+
+I'm a full-stack blockchain developer, and my favorite thing to do is take a product from **zero to one** — from "here's the problem" to something real, secure, and running in production.
+
+Writing code is honestly the smallest part of that. The fun part is understanding the product, the architecture, the business rules, the compliance traps, and the human on the other end of the screen — then making it all click together. When I join a project, I get invested in whether it *succeeds*, not just whether my tickets close. Which usually means fixing things nobody asked me to fix. I have made peace with this about myself.
+
+Best systems I've shipped came out of good conversations with product, design, compliance, and QA — not lone-wolf commits at 2am.
+
+<br clear="both"/>
+
+```text
+blockchain · web3 · distributed systems · AI · backend systems
+product architecture · fintech · tokenization · smart contracts · cloud
 ```
 
-> Web3 full-stack engineer focused on **secure smart contracts**, robust **backends**, and thorough
-> **on-chain testing**. Security-first across the stack — from Foundry fuzz/invariant suites to
-> Row-Level-Security'd Postgres.
+<br/>
 
-<!-- ░░░░░░░░░░░░░░░░  AUTO-REFRESHING DEV QUOTE  ░░░░░░░░░░░░░░░░ -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote"/>
-</p>
+## 🔭 Current focus
 
----
+- **Security-first smart-contract engineering** — Solidity with Foundry test suites (unit · fuzz · invariant · attack-vector), backed by Slither / Mythril / Echidna in CI
+- **Production backends for on-chain products** — Next.js · TypeScript · PostgreSQL · Supabase, with role-based access control and Row-Level Security as defaults, not afterthoughts
+- **Tokenization & FinTech rails** — where compliance and audit logging are part of the architecture, not a bolt-on
+- **Research** — trustless cross-chain interoperability and validator security
 
-## 📊 by the numbers
+<br/>
 
-<table align="center">
-<tr>
-  <td align="center"><h2>2+</h2>years building<br/>on Web3 / EVM</td>
-  <td align="center"><h2>4</h2>shipped DApps<br/>& full-stack apps</td>
-  <td align="center"><h2>8.78</h2>CGPA<br/>B.C.A. (Hons)</td>
-</tr>
-<tr>
-  <td align="center"><h2>5</h2>blockchain<br/>certifications</td>
-  <td align="center"><h2>2</h2>research collabs<br/>DRDO · Astraeus</td>
-  <td align="center"><h2>7.0</h2>IELTS Academic<br/>(C1)</td>
-</tr>
-</table>
+## 🛠️ Tech stack
 
----
+<div align="center">
 
-## 🛠️ arsenal
+**Languages**
 
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=solidity,ts,js,python,cpp&theme=dark" alt="Solidity, TypeScript, JavaScript, Python, C++"/>
 
-**⛓️ Blockchain**
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-![Foundry](https://img.shields.io/badge/Foundry-FF7043?style=flat-square&logo=foundry&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black)
-![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=flat-square&logo=ethereum&logoColor=white)
-![viem](https://img.shields.io/badge/viem-1B1B1F?style=flat-square)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white)
-![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white)
-![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=flat-square&logo=metamask&logoColor=white)
-`ERC-20` `DeFi` `WalletConnect`
+**Web & Backend**
 
-**🧩 Backend & Frontend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind&theme=dark" alt="React, Next.js, Node.js, Express, Tailwind"/>
 
-**🗄️ Data · 🔐 Security · ⚙️ DevOps**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-`Slither` `Mythril` `Echidna` `RBAC` `RLS`
+**Data & Infrastructure**
 
----
+<img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb,mysql,firebase,docker,githubactions,vercel,git&theme=dark" alt="PostgreSQL, Supabase, MongoDB, MySQL, Firebase, Docker, GitHub Actions, Vercel, Git"/>
 
-## 💼 experience — `git log --author="vidit"`
+**Blockchain tooling**
+
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" alt="Ethereum"/>
+<img src="https://img.shields.io/badge/Foundry-FF7043?style=flat-square" alt="Foundry"/>
+<img src="https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black" alt="Hardhat"/>
+<img src="https://img.shields.io/badge/Ethers.js-2535A0?style=flat-square&logo=ethereum&logoColor=white" alt="Ethers.js"/>
+<img src="https://img.shields.io/badge/viem-1B1B1F?style=flat-square" alt="viem"/>
+<img src="https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white" alt="IPFS"/>
+<img src="https://img.shields.io/badge/Slither-8B5CF6?style=flat-square" alt="Slither"/>
+<img src="https://img.shields.io/badge/Mythril-6366F1?style=flat-square" alt="Mythril"/>
+<img src="https://img.shields.io/badge/Echidna-EC4899?style=flat-square" alt="Echidna"/>
+
+</div>
+
+<br/>
+
+## 💼 Experience
 
 <details open>
-<summary><b>🟣 Web3 Full-Stack Engineer</b> · <i>Remote, India · Dec 2025 → Present</i></summary>
-
+<summary><b>Web3 Full-Stack Engineer</b> · <i>Remote · Dec 2025 → Present</i></summary>
 <br/>
 
-- Design and build **secure smart contracts** and **production backends** end-to-end, with a security-first mindset.
+- Design and build **secure smart contracts** and **production backends** end-to-end for a tokenization platform, working daily with product, compliance, QA, and smart-contract engineers.
 - Develop **REST APIs** on **Next.js · TypeScript · PostgreSQL · Supabase**, with **role-based access control** and **Row-Level Security**.
-- Author extensive **Foundry test suites** — Unit · Fuzz · Invariant · Integration · Attack-Vector — backed by **Slither, Mythril, Echidna** static analysis in CI.
-- Drive an **audit-driven delivery process**: access control, audit logging, and business-rule validation.
+- Author extensive **Foundry test suites** — unit · fuzz · invariant · integration · attack-vector — backed by **Slither, Mythril, Echidna** static analysis in CI.
+- Drive an **audit-driven delivery process**: access control, audit logging, and business-rule validation as first-class requirements.
 
 </details>
 
 <details>
-<summary><b>🔵 Blockchain Developer Intern — Astraeus Next Gen</b> · <i>Remote · Dec 2024 → Apr 2025</i></summary>
-
+<summary><b>Blockchain Developer Intern — Astraeus Next Gen</b> · <i>Remote · Dec 2024 → Apr 2025</i></summary>
 <br/>
 
-- Built & tested **proof-of-concept cross-chain bridges** with Node.js, Solidity, Hardhat, Ethers.js.
-- Maintained **90%+ test coverage**; peer code reviews following Agile best practices.
-- Created reusable deployment scripts and internal docs to streamline onboarding.
+- Built and tested **proof-of-concept cross-chain bridges** with Node.js, Solidity, Hardhat, and Ethers.js.
+- Maintained **90%+ test coverage**; participated in peer code reviews on an Agile team.
+- Wrote reusable deployment scripts and internal docs that made onboarding the next person easier.
 
 </details>
 
 <details>
-<summary><b>🟢 Blockchain Research Intern — DRDO</b> · <i>Delhi · Jan 2025 → May 2025</i></summary>
-
+<summary><b>Blockchain Research Intern — DRDO</b> · <i>Delhi · Jan 2025 → May 2025</i></summary>
 <br/>
 
-- Researched **trustless cross-chain communication** with focus on secure asset transfer across EVM networks.
-- Produced technical diagrams & structured docs supporting research proposals and publication prep.
-- Collaborated with an interdisciplinary team to evaluate interoperability and define security standards.
+- Researched **trustless cross-chain communication**, focused on secure asset transfer across EVM networks.
+- Produced technical diagrams and structured documentation supporting research proposals and publication prep.
+- Worked with an interdisciplinary team to evaluate interoperability approaches and define security standards.
 
 </details>
 
----
+<br/>
 
-## 🚀 featured projects
+## 🚀 Featured projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏷️ [IditTrack](https://github.com/viditkulsh/IditTrack)
-**Micro-SaaS Inventory & Order Mgmt** · `Jul–Aug 2025`
+### [IditTrack](https://github.com/viditkulsh/IditTrack)
+**Multi-tenant inventory & order management SaaS**
 
-Multi-tenant SaaS (React · TS · Supabase) with **RLS-isolated** tenant data, role-based workflows (Admin/Manager/User), CSV bulk import, real-time multi-location tracking, analytics dashboard + **PWA offline**.
+Built as a real product, not a demo: **RLS-isolated** tenant data, role-based workflows (Admin / Manager / User), CSV bulk import, real-time multi-location tracking, analytics, and **offline-capable PWA**.
 
 `React` `TypeScript` `Supabase` `RLS` `PWA`
 
 </td>
 <td width="50%" valign="top">
 
-### 🩸 [HemoChain](https://github.com/viditkulsh/HemoChain)
-**Ethereum Blood Donation System** · `Jul–Dec 2024`
+### [HemoChain](https://github.com/viditkulsh/HemoChain)
+**Ethereum blood-donation system**
 
-Solidity contracts for donor-recipient matching & on-chain records. React + **MetaMask** auth cut failed submissions **~25%**. Records on **IPFS** with on-chain hashed pointers.
+Solidity contracts for donor–recipient matching with on-chain records. MetaMask auth flow cut failed submissions **~25%**; records live on **IPFS** with hashed on-chain pointers.
 
 `Solidity` `React` `IPFS` `MetaMask`
 
@@ -188,20 +156,20 @@ Solidity contracts for donor-recipient matching & on-chain records. React + **Me
 <tr>
 <td width="50%" valign="top">
 
-### 🤝 [SathiSahyogi](https://github.com/viditkulsh/SathiSahyogi)
-**Charity Crowdfunding on Ethereum** · `Feb–May 2024`
+### [SathiSahyogi](https://github.com/viditkulsh/SathiSahyogi)
+**Charity crowdfunding on Ethereum**
 
-Solidity escrow with **milestone-based releases**. React + Tailwind + MetaMask donations. Hardhat/Ethers.js automation targeting **~80%+ coverage**.
+Escrow contracts with **milestone-based releases** — donors fund outcomes, not promises. Hardhat/Ethers.js test automation targeting **80%+ coverage**.
 
 `Solidity` `Hardhat` `React` `Tailwind`
 
 </td>
 <td width="50%" valign="top">
 
-### ⛽ [L2 Gas Comparison](https://github.com/viditkulsh/gas_comparison)
-**Real-time Multi-chain Gas Tracker** · `2024`
+### [L2 Gas Comparison](https://github.com/viditkulsh/gas_comparison)
+**Real-time multi-chain gas tracker**
 
-Next.js + TS dashboard polling live gas across **L1, Arbitrum, Optimism, Base, zkSync, StarkNet**. Tx-cost analyzer, ETH/USD/INR conversion, Recharts viz.
+Live gas across **L1, Arbitrum, Optimism, Base, zkSync, StarkNet**, with a transaction-cost analyzer and ETH/USD/INR conversion. Built because I wanted the answer and the dashboard didn't exist.
 
 `Next.js` `TypeScript` `Ethers.js v6`
 
@@ -209,76 +177,83 @@ Next.js + TS dashboard polling live gas across **L1, Arbitrum, Optimism, Base, z
 </tr>
 </table>
 
----
+<br/>
 
-## 🎓 education · 🔬 research · 📜 certs
+## 📊 GitHub analytics
 
-<table>
-<tr><td valign="top" width="50%">
-
-**🎓 Bennett University**
-B.C.A. (Honours) · `Sep 2022 – Jul 2025`
-**CGPA 8.78/10** · SGPA peaks 9.48 & 9.2
-Capstone: Blockchain interoperability (DRDO × Astraeus)
-*Algorithms · OS · OOP · Blockchain · Cryptography · DBMS · Distributed Systems*
-
-**🔬 Research**
-- Trustless interoperability & cross-chain transfer — *validator security + latency*
-- Decentralized info-mgmt for healthcare supply chains *(ongoing)*
-
-</td><td valign="top" width="50%">
-
-**📜 Certifications** — *Coursera*
-- Blockchain Basics — *Buffalo* · [`R4JUF8CEGFE5`](https://coursera.org/verify/R4JUF8CEGFE5)
-- Smart Contracts — *Buffalo* · [`W4N5JM7YVYNU`](https://coursera.org/verify/W4N5JM7YVYNU)
-- Blockchain Platforms — *Buffalo* · [`LLQ33LSJH7UQ`](https://coursera.org/verify/LLQ33LSJH7UQ)
-- DApp Development — *SUNY* · [`VFABPJNPGS6E`](https://coursera.org/verify/VFABPJNPGS6E)
-- Cryptography — *Stanford* · [`0WQ67B639L8N`](https://coursera.org/verify/0WQ67B639L8N)
-
-**🏆 Hackathons & Community**
-- EDU Chain — NFT academic credential verifier
-- HacknChill 2024 — on-chain event ticketing
-- Volunteer · Bharat Blockchain Yatra 2024
-
-</td></tr>
-</table>
-
----
-
-## 📈 github stats
-
-<!-- Self-generated metrics card (built by GitHub Actions → committed SVG, immune to runtime API rate limits) -->
+<!-- Self-generated metrics card (GitHub Actions → committed SVG, immune to runtime API rate limits) -->
 <p align="center">
   <img src="./metrics/github-metrics.svg" alt="GitHub metrics overview"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=viditkulsh&theme=tokyonight&hide_border=true&ring=8B5CF6&fire=EC4899&currStreakLabel=8B5CF6" alt="streak stats"/>
+  <img src="https://streak-stats.demolab.com?user=viditkulsh&theme=tokyonight&hide_border=true&ring=8B5CF6&fire=EC4899&currStreakLabel=8B5CF6" alt="Contribution streak"/>
 </p>
 
-<!-- ░░░░░░░░░░░░░░░░  ANIMATED ACTIVITY GRAPH  ░░░░░░░░░░░░░░░░ -->
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=viditkulsh&theme=tokyo-night&hide_border=true&bg_color=00000000&color=8B5CF6&line=EC4899&point=ffffff&area=true&custom_title=Contribution%20Graph" alt="activity graph"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=viditkulsh&theme=tokyo-night&hide_border=true&bg_color=00000000&color=8B5CF6&line=EC4899&point=ffffff&area=true&custom_title=Contribution%20Graph" alt="Activity graph"/>
 </p>
 
-<!-- ░░░░░░░░░░░░░░░░  3D CONTRIBUTION CALENDAR (generated by .github/workflows/3d-contrib.yml)  ░░░░░░░░░░░░░░░░ -->
+<!-- 3D contribution calendar — generated by .github/workflows/3d-contrib.yml -->
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar"/>
 </p>
 
-<!-- ░░░░░░░░░░░░░░░░  CONTRIBUTION SNAKE (generated by .github/workflows/snake.yml → output branch)  ░░░░░░░░░░░░░░░░ -->
+<!-- Contribution snake — generated by .github/workflows/snake.yml → output branch -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viditkulsh/viditkulsh/output/snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/viditkulsh/viditkulsh/output/snake.svg"/>
-    <img src="https://raw.githubusercontent.com/viditkulsh/viditkulsh/output/snake.svg" alt="snake animation"/>
+    <img src="https://raw.githubusercontent.com/viditkulsh/viditkulsh/output/snake.svg" alt="Contribution snake animation"/>
   </picture>
 </p>
 
----
+<p align="center"><sub>🐍 eats a full year of commits every 12 hours. Still hungry.</sub></p>
+
+<br/>
+
+## 🌱 Currently learning
+
+- **AI-assisted engineering** — agentic workflows, LLM tooling for smart-contract analysis
+- **Cross-chain interoperability** — deepening the research from my DRDO collaboration into validator security and message-passing designs
+- **Distributed-systems fundamentals** — because every blockchain problem is a distributed-systems problem wearing a costume
+
+<details>
+<summary><b>Education & certifications</b></summary>
+<br/>
+
+**Bennett University** — B.C.A. (Honours), Sep 2022 – Jul 2025 · CGPA 8.78/10
+Capstone: blockchain interoperability (DRDO × Astraeus collaboration)
+
+**Certifications** — Coursera
+[Blockchain Basics](https://coursera.org/verify/R4JUF8CEGFE5) · [Smart Contracts](https://coursera.org/verify/W4N5JM7YVYNU) · [Blockchain Platforms](https://coursera.org/verify/LLQ33LSJH7UQ) *(University at Buffalo)* · [DApp Development](https://coursera.org/verify/VFABPJNPGS6E) *(SUNY)* · [Cryptography](https://coursera.org/verify/0WQ67B639L8N) *(Stanford)*
+
+**Hackathons & community** — EDU Chain (NFT academic-credential verifier) · HacknChill 2024 (on-chain event ticketing) · Volunteer, Bharat Blockchain Yatra 2024
+
+</details>
+
+<br/>
+
+## 🎲 A few things about me
+
+- I read audit reports and post-mortems the way other people read blog posts. The fastest way to nerd-snipe me is to tell me how a system breaks.
+- I learn technologies I have no immediate use for, purely to see how they work. Some turn out to be very useful later. That is not why I do it.
+- My favorite code review comment to receive: *"this was easier to review than I expected."* I frame those.
+- I've never met a manual deployment process I didn't eventually automate out of existence. The deployments have stopped fighting back.
+- Relationship status: `committed` — to `main`, with a clean history and signed commits.
+- I once spent an evening comparing gas costs across six chains because nobody could tell me the answer. It's now [a dashboard](https://github.com/viditkulsh/gas_comparison).
+
+<br/>
+
+## 📬 Contact
+
+The best way to reach me is **[email](mailto:viditkulsh.work@gmail.com)** or **[LinkedIn](https://linkedin.com/in/vidit-kulshrestha)**. If you're building something at the intersection of blockchain, fintech, and product — or you just want to argue about architecture — I'd genuinely like to hear about it.
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:8B5CF6,100:6366F1&height=120&section=footer&text=Let's%20build%20something%20trustless&fontSize=20&fontColor=ffffff&animation=twinkling&fontAlignY=70"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:312E81,100:0F172A&height=140&section=footer&text=Let's%20build%20something%20that%20matters&fontSize=20&fontColor=ffffff&animation=twinkling&fontAlignY=70"/>
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:7C3AED,100:6366F1&height=140&section=footer&text=Let's%20build%20something%20that%20matters&fontSize=20&fontColor=ffffff&animation=twinkling&fontAlignY=70" alt="footer"/>
+  </picture>
 </p>
 
-<p align="center"><i>English (IELTS Academic 7.0, C1) · Open to relocation — Germany · UAE · Europe · Remote</i></p>
+<p align="center"><sub>English — IELTS Academic 7.0 (C1) · Open to remote and relocation (India · Germany · UAE · Europe)</sub></p>

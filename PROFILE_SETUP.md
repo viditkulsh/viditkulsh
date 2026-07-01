@@ -27,9 +27,10 @@ The 3D action emits several SVGs. The README uses `profile-night-rainbow.svg`; s
 ## Live elements that need no workflow (external SVG services)
 
 - Animated **waving header** + footer (theme-adaptive light/dark via `<picture>`)
-- **Typing** subtitle · **dev-quote** banner
+- **Typing** subtitle · **skillicons.dev** tech-stack icon rows
 - **Streak** stats card · **animated activity graph**
-- **Profile-views** counter · collapsible **`<details>`** experience
+- **Profile-views** counter · collapsible **`<details>`** experience / education
+- **Developer-working GIF** — committed locally at `assets/dev-working.gif` (no external dependency, can't 404)
 
 > ⚠️ The `github-readme-stats` "stats" card and the `github-profile-trophy` card were **removed** —
 > those shared-instance services were rate-limited ("Something went wrong") / over quota (HTTP 402).
